@@ -1,5 +1,7 @@
 [![Contribute](http://beta.codenvy.com/factory/resources/codenvy-contribute.svg)](http://beta.codenvy.com/f?id=g873lob5z6k703vn)
 
+Che 6:
+[![Contribute](http://beta.codenvy.com/factory/resources/codenvy-contribute.svg)](https://rhche.openshift.io/f?id=factoryizagzb87p4aeqinz)
 
 
 
